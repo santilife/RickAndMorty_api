@@ -6,4 +6,4 @@
 - Valentina Tobón Morales
 
 # Video Explicación
-[Ver video](/home/santifile/Escritorio/SENA/Front/JavaScript/reactWorks/video.mp4)
+[Ver video](./video.mp4)
