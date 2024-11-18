@@ -6,4 +6,4 @@
 - Valentina Tobón Morales
 
 # Video Explicación
-[Ver video](https://github.com/santilife/RickandMorty_api/blob/main/video.mp4?raw=true)
+[Descargar video](https://github.com/santilife/RickandMorty_api/blob/main/video.mp4?raw=true)
