@@ -1,11 +1,11 @@
-#Proyecto api Rick and Morty
+# Proyecto api Rick and Morty
 
-#Grupo colaborativo
+# Grupo colaborativo
 - Santiago Otalvaro Muñoz
 - Brayan Ocampo Lopez
 - Valentina Tobón Morales
 
-#Video Explicación
+# Video Explicación
 
 <video width="600" controls>
   <source src="../video.mp4" type="video/mp4">
